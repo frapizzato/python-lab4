@@ -33,7 +33,7 @@ def removeTask(bot,update,args):
 
 def main():
     # create the EventHandler
-    updater = Updater("899776756:AAEWPf7VbJLCi6EgygUa8Tp9YVztocIsQyc")
+    updater = Updater("TOKEN")
     # get the dispacer to register handlers
     dp = updater.dispatcher
 
